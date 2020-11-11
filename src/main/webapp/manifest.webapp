@@ -1,6 +1,6 @@
 {
-  "name": "Noteyboi",
-  "short_name": "Noteyboi",
+  "name": "noteyboi",
+  "short_name": "noteyboi",
   "icons": [
       {
           "src": "./content/images/jhipster_family_member_1_head-192.png",

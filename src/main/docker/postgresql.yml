@@ -3,9 +3,9 @@ services:
   noteyboi-postgresql:
     image: postgres:12.3
     # volumes:
-    #     - ~/volumes/jhipster/Noteyboi/postgresql/:/var/lib/postgresql/data/
+    #     - ~/volumes/jhipster/noteyboi/postgresql/:/var/lib/postgresql/data/
     environment:
-      - POSTGRES_USER=Noteyboi
+      - POSTGRES_USER=noteyboi
       - POSTGRES_PASSWORD=
       - POSTGRES_HOST_AUTH_METHOD=trust
     ports:
